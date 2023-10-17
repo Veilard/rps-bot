@@ -1,0 +1,23 @@
+{
+    "wins": [
+        "You won!",
+        "Great job!",
+        "You're the winner!",
+        "Well done!",
+        "Impressive win!"
+    ],
+    "loses": [
+        "You lost this time.",
+        "Better luck next time.",
+        "It happens to the best of us.",
+        "Keep trying!",
+        "Don't give up!"
+    ],
+    "draws": [
+        "It's a tie!",
+        "No clear winner this time.",
+        "A draw, interesting!",
+        "Equal match!",
+        "Both players are equally good!"
+    ]
+}
